@@ -1,5 +1,3 @@
-I condensed this article for my own personal notes.
-
 # REACT + REDUX
 ## TERMS
 ### Store & State
